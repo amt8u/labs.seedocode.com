@@ -19,3 +19,12 @@
 	border-radius: 10px;
 	border: 2px solid #ddd;
 }
+
+#main-iframe {
+    position: absolute;
+    height: 88%;
+    border: none;
+    /* border: 1px solid #ddd; */
+    width: 60%;
+    margin: 10px;
+}
